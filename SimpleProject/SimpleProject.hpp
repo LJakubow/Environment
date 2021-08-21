@@ -7,7 +7,7 @@
 
 namespace project
 {	
-
+//Simple comment.exe
 struct CommandError: std::logic_error
 {
     CommandError();
